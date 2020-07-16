@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.czim.intellijpluginphpstyle.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.czim.intellijpluginphpstyle.MyBundle
 
 class MyProjectService(project: Project) {
 
